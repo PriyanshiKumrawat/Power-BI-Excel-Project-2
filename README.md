@@ -56,3 +56,5 @@ Interactive filter allowing the user to view data by payment method: Cash, Credi
 
 # 💡 Use Case:
 This dashboard helps stakeholders track agency performance, agent contribution, customer booking behavior, and revenue trends to make informed decisions for improving travel services and sales strategies.
+
+# Review Dashboard:(https://github.com/PriyanshiKumrawat/Power-BI-Excel-Project-2/blob/main/Travel.png)
